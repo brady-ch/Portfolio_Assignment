@@ -99,8 +99,5 @@ main article p {
 
 .projects-section div p {
   text-align: center;
-}
-
-.projects-section div a {
-  justify-content: space-around;
+  flex-wrap: wrap;
 }
